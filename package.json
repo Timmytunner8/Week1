@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Timmytunner8/Week1#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }
